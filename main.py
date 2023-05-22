@@ -9,3 +9,4 @@ def unlock_guns():
 
 if __name__ == "__main__":
     unlock_guns()
+    print("All guns unlocked! Have fun!")
